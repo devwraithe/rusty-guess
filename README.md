@@ -1,4 +1,4 @@
-#  rusty_guess
+#  Rusty Guess
 
 A simple number guessing game built in **Rust**, inspired by [The Rust Programming Language Book](https://doc.rust-lang.org/book/).  
 This project was created to get hands-on experience with Rust’s core concepts like ownership, pattern matching, input/output, and error handling.
@@ -22,7 +22,7 @@ Make sure you have [Rust and Cargo](https://www.rust-lang.org/tools/install) ins
 Clone this repository:
 
 ```bash
-git clone https://github.com/devwraithe/rusty_guess.git
+git clone https://github.com/devwraithe/rusty-guess.git
 cd rusty_guess
 ```
 
